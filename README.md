@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+This is a little test.
+
+- Thing
+- Other thing
+- WOW!
+
 <!--
 **LeMorrow/LeMorrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
