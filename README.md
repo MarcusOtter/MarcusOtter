@@ -1,5 +1,24 @@
 ### Welcome to my GitHub profile :tada:
 
+
+  
+  
+  <details>
+    <summary>
+      CLICK ME!
+    </summary>
+  
+    Hello
+    Here is some text
+    It's formatted in a monospace font, weirdly.
+  </details>
+
+
+
+<p align="center">
+  <a href="#"><img alt="APOD.Net, an unofficial .NET wrapper for NASA's Astronomy Picture of the Day API" src="https://cdn.discordapp.com/attachments/458291463663386646/592779619212460054/Screenshot_20190624-201411.jpg" /></a>
+</p
+
 <!--
 **LeMorrow/LeMorrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
