@@ -1,6 +1,6 @@
 ### Welcome to my GitHub profile :tada:
 
-
+<a href="#">This is a fake link. Click it to mess things up. Maybe.</a>
   
   
   <details>
