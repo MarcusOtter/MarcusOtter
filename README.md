@@ -1,23 +1,19 @@
 ### Welcome to my GitHub profile :tada:
+*I'm experimenting with Profile README, if this looks weird, sorry.*
 
-<a href="#">This is a fake link. Click it to mess things up. Maybe.</a>
+<details>
+  <summary>
+    DOG
+  </summary>
   
-  
-  <details>
-    <summary>
-      CLICK ME!
-    </summary>
-  
-    Hello
-    Here is some text
-    It's formatted in a monospace font, weirdly.
-  </details>
-
-
-
 <p align="center">
   <img alt="cute dog :)" src="https://cdn.discordapp.com/attachments/458291463663386646/592779619212460054/Screenshot_20190624-201411.jpg" />
-</p
+</p>
+</details>
+
+
+
+
 
 <!--
 **LeMorrow/LeMorrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
