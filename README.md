@@ -1,19 +1,10 @@
-### Welcome to my GitHub profile :tada:
-*I'm experimenting with Profile README, if this looks weird, sorry.*
+### Hello, I'm Marcus 
 
-<details>
-  <summary>
-    DOG
-  </summary>
-  
-<p align="center">
-  <img alt="cute dog :)" src="https://cdn.discordapp.com/attachments/458291463663386646/592779619212460054/Screenshot_20190624-201411.jpg" />
-</p>
-</details>
-
-
-
-
+#### I am ..
+- :briefcase: working at [@Caspeco](https://github.com/Caspeco) since March 2020
+- :school: starting a Software Engineering degree at Uppsala University in September 2020
+- :sparkles: currently learning about VPS hosting and publishing my first .NET API
+- :watch: in UTC+2
 
 <!--
 **LeMorrow/LeMorrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
