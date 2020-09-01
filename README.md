@@ -1,9 +1,8 @@
 ### Hello, I'm Marcus 
 
 #### I am ..
+- :school: currently studing Informatics with Software Engineering as my minor at Uppsala University
 - :briefcase: working at [@Caspeco](https://github.com/Caspeco) since March 2020 (Work account: [@CaspecoMarcus](https://github.com/CaspecoMarcus))
-- :school: starting a Software Engineering degree at Uppsala University in September 2020
-- :sparkles: currently learning about VPS hosting and publishing my first .NET API
 - :watch: in UTC+2
 
 <!--
