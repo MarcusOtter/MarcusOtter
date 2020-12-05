@@ -3,7 +3,7 @@
 #### I am ..
 - :school: currently studing Informatics with Software Engineering as my minor at Uppsala University
 - :briefcase: working at [@Caspeco](https://github.com/Caspeco) since March 2020 (Work account: [@CaspecoMarcus](https://github.com/CaspecoMarcus))
-- :watch: in UTC+2
+- :watch: in UTC+1
 
 <!--
 **LeMorrow/LeMorrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
