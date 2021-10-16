@@ -2,7 +2,6 @@
 
 #### I am ..
 - :school: currently studying Information Systems with Software Engineering as my minor at Uppsala University
-- :briefcase: working at [@Caspeco](https://github.com/Caspeco) since March 2020 (Work account: [@CaspecoMarcus](https://github.com/CaspecoMarcus))
 - :watch: in UTC+2
 
 <!--
