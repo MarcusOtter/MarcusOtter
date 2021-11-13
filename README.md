@@ -2,7 +2,7 @@
 
 #### I am ..
 - :school: currently studying Information Systems with Software Engineering as my minor at Uppsala University
-- :watch: in UTC+2
+- :watch: in UTC+1
 
 <!--
 **LeMorrow/LeMorrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
