@@ -3,8 +3,8 @@
 - 🙋‍♂️ <b>he/him</b> or <b>they/them</b>
 - 📫 <a href="mailto:contact@otterstrom.dev">contact@otterstrom.dev</a>
 - 🏫 Uppsala university (2020-2023)
-  - Bachelor in <b>Information Systems</b>
-  - Minor in <b>Software Engineering</b>
+  - Bachelor in <b>Information Systems</b> 📡
+  - Minor in <b>Software Engineering</b> 👨‍💻
 
 
 <!--
