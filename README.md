@@ -1,5 +1,5 @@
 ### Hello, I'm Marcus 
-![](https://komarev.com/ghpvc/?username=MarcusOtter&color=lightgrey)
+![](https://komarev.com/ghpvc/?username=MarcusOtter&color=blue)
 
 - 🕐 <b>UTC+1</b> (CET)
 - 🙋‍♂️ <b>he/him</b> or <b>they/them</b>
