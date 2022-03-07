@@ -1,4 +1,5 @@
 ### Hello, I'm Marcus 
+![](https://komarev.com/ghpvc/?username=MarcusOtter&color=lightgrey)
 
 - 🕐 <b>UTC+1</b> (CET)
 - 🙋‍♂️ <b>he/him</b> or <b>they/them</b>
@@ -6,6 +7,9 @@
 - 🏫 Uppsala university (2020-2023)
   - Bachelor in <b>Information Systems</b>
   - Minor in <b>Software Engineering</b>
+
+
+
 
 <!--
 **LeMorrow/LeMorrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
