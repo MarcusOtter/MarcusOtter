@@ -1,8 +1,11 @@
 ### Hello, I'm Marcus 
 
-#### I am ..
-- :school: currently studying Information Systems with Software Engineering as my minor at Uppsala University
-- :watch: in UTC+1
+- 🕐 <b>UTC+1</b> (CET)
+- 🙋‍♂️ <b>he/him</b> or <b>they/them</b>
+- 📫 <a href="mailto:contact@otterstrom.dev">contact@otterstrom.dev</a>
+- 🏫 Uppsala university (2020-2023)
+  - Bachelor in <b>Information Systems</b>
+  - Minor in <b>Software Engineering</b>
 
 <!--
 **LeMorrow/LeMorrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
