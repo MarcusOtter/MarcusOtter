@@ -1,14 +1,10 @@
-### Hello, I'm Marcus 
-![](https://komarev.com/ghpvc/?username=MarcusOtter&color=blue)
-
+# Hello, I'm Marcus 
 - 🕐 <b>UTC+1</b> (CET)
 - 🙋‍♂️ <b>he/him</b> or <b>they/them</b>
 - 📫 <a href="mailto:contact@otterstrom.dev">contact@otterstrom.dev</a>
 - 🏫 Uppsala university (2020-2023)
   - Bachelor in <b>Information Systems</b>
   - Minor in <b>Software Engineering</b>
-
-
 
 
 <!--
