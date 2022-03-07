@@ -7,12 +7,6 @@
   - 👨‍💻 Minor in <b>Software Engineering</b> 
 
 
-<pre>
-Cool new stuff                                                                                       Cool old stuff
-      👇                                                                                                   👇
-</pre>
-
-
 <!--
 **LeMorrow/LeMorrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
