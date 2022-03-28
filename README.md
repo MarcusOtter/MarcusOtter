@@ -1,5 +1,5 @@
 # Hello, I'm Marcus 
-- 🕐 <b>UTC+1</b> (CET)
+- 🕐 <b>UTC+2</b> (CEST)
 - 🙋‍♂️ <b>he/him</b> or <b>they/them</b>
 - 📫 <a href="mailto:contact@otterstrom.dev">contact@otterstrom.dev</a>
 - 👨‍🎓 Uppsala university (2020-2023)
