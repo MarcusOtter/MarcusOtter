@@ -1,4 +1,4 @@
-# Hello, I'm Marcus 
+# ← Hello, I'm Marcus 👋
 - 🕐 <b>UTC+2</b> (CEST)
 - 🙋‍♂️ <b>he/him</b> or <b>they/them</b>
 - 👨‍🎓 Uppsala university (2020-2023)
