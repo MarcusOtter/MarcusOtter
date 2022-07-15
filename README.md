@@ -1,11 +1,10 @@
-# ← Hello, I'm Marcus 👋
-- 🕐 <b>UTC+2</b> (CEST)
-- 🙋‍♂️ <b>he/him</b> or <b>they/them</b>
-- 👨‍🎓 Uppsala university (2020-2023)
-  - 📡 Bachelor in <b>Information Systems</b> 
-  - 👨‍💻 Minor in <b>Software Engineering</b> 
-
-<!-- 📫 <a href="mailto:contact@otterstrom.dev">contact@otterstrom.dev</a>-->
+<h1 align="center">Hi, I'm Marcus 👋</h1>
+<br/>
+<p align="center">
+  🕐 <b>UTC+2</b> (CEST)<br>
+  🙋‍♂️ <b>he/him</b> or <b>they/them</b><br>
+  👨‍🎓 Uppsala university (2020-2023)
+</p>
 
 <!--
 **LeMorrow/LeMorrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
