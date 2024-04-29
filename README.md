@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋</h1>
 <br/>
 <p align="center">
-  🕐 <b>UTC+1</b> (CET)<br>
+  🕐 <b>UTC+2</b> (CEST)<br>
   🙋‍♂️ <b>he/him</b> or <b>they/them</b><br>
   👨‍🎓 Uppsala university<br>
   💼 Caspeco
